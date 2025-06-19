@@ -41,6 +41,15 @@ Design a user-friendly interface using HTML and JavaScript
 
 Implement file upload functionality for videos
 
+
+
+<B>Feedback Mechanism: </B>
+
+Develop a feedback form for user input
+
+Store feedback data in a database for analysis
+
+
 # Code Structure
 
 ![image](https://github.com/user-attachments/assets/590b0a44-352c-49be-80ab-41ea61174f33)
@@ -48,8 +57,3 @@ Implement file upload functionality for videos
 
  
 
-<B>Feedback Mechanism: </B>
-
-Develop a feedback form for user input
-
-Store feedback data in a database for analysis
