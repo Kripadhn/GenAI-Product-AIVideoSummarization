@@ -41,6 +41,11 @@ Design a user-friendly interface using HTML and JavaScript
 
 Implement file upload functionality for videos
 
+# Code Structure
+
+![image](https://github.com/user-attachments/assets/590b0a44-352c-49be-80ab-41ea61174f33)
+
+
  
 
 <B>Feedback Mechanism: </B>
