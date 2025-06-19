@@ -3,7 +3,7 @@
 
 <H2><B> Description </B></H2> The aim of the project is to develop a video summarization and quiz generation tool that leverages Large Language Models and AWS. 
 
-<H2><B>Approach</B></H2>
+<H2><B> Approach </B></H2>
 
 <B>Initial Setup:</B>
 
